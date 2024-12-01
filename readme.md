@@ -22,3 +22,15 @@ This is a simple web application built using Flask that takes user input (a prom
    ```bash
    git clone https://github.com/webcrafter011/Grok-Chatbot.git
    cd Grok-Chatbot
+
+2. Change the API key to your API key and run python app.py
+   ```bash
+   python3 app.py
+
+3. Access your personal chatbot
+   you can now access your personal chatbot assistant on http://127.0.0.1:5000/
+
+## Contributions
+Contributions are welcome! Feel free to submit pull requests or open issues for improvements and bug fixes.
+
+
