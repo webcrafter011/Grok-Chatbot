@@ -6,7 +6,6 @@ This is a simple web application built using Flask that takes user input (a prom
 
 - **User Input**: Users can enter a prompt through a textarea in the web interface.
 - **Response from API**: The user input is sent to the `x.ai` API, and the app retrieves a response.
-- **Typing Effect**: The response is displayed with a simulated typing effect to make the interaction more engaging.
 - **Stop Generating**: Users can stop the typing effect at any time using the "Stop Generating" button.
 
 ## Requirements
